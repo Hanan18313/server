@@ -1,0 +1,10 @@
+{
+    "wx_host" : "http://localhost",
+    "wx_port" : "3000",
+    "mysql_host" : "localhost",
+    "mysql_user" : "root",
+    "mysql_password" : "123456",
+
+    "appid" : "wx238ca91cc7a15764",
+    "secret" : "655d3bf13a70671966abdd4d2c6be206"
+}
